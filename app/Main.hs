@@ -3,4 +3,4 @@ module Main (main) where
 import Lib
 
 main :: IO ()
-main = print pb2
+main = print pb3
